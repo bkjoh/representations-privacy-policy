@@ -2,15 +2,9 @@
 
 **Effective date:** 2026-04-05
 
-This Privacy Policy applies to **Representations: Binary & Hex** (package name: `com.bjohns.representations`), published by **bjohns**.
+This Privacy Policy applies to **Representations: Binary & Hex** on Google Play (package name: `com.bjohns.representations`), published by **bjohns**.
 
-## Overview
-
-Representations: Binary & Hex is an offline Android application for browsing and searching numeric and Unicode representation data on-device.
-
-The app is designed to work without creating an account and without sending your personal information to the developer or to third parties.
-
-## Information We Collect
+## Data Collection
 
 The app does **not** collect, store, transmit, or share personal information or sensitive user data.
 
@@ -24,7 +18,9 @@ The app does **not** use:
 
 The app does not request runtime permissions.
 
-## How the App Works
+## Local Operation
+
+Representations: Binary & Hex is an offline Android application for browsing and searching numeric and Unicode representation data on-device.
 
 The app includes a read-only database packaged with the application.
 
