@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** 2026-04-05
+**Effective date:** 2026-04-19
 
 This Privacy Policy applies to **Representations: Binary & Hex** on Google Play (package name: `com.bjohns.representations`), published by **bjohns**.
 
