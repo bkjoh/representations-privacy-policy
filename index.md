@@ -55,4 +55,6 @@ If it is updated, the new version will be posted at this same URL and the **Effe
 
 **App:** Representations: Binary & Hex
 
+**Email:** <benjohnson2040@gmail.com>
+
 **Website:** [bjohns.com](https://bjohns.com)
