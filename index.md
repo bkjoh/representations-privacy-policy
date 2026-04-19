@@ -43,10 +43,6 @@ Any app data stored as part of normal on-device use remains on your device and c
 
 The app is designed to operate offline and does not transmit user data over the internet.
 
-## Children's Privacy
-
-The app is not specifically directed to children under 13.
-
 ## Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time.
