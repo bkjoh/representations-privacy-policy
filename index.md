@@ -77,6 +77,6 @@ This Privacy Policy may be updated from time to time. If it is updated, the new 
 
 **App:** Representations: Binary & Hex
 
-**Email:** <benjohnson2040@gmail.com>
+**Email:** <representations@bjohns.com>
 
 **Website:** [bjohns.com](https://bjohns.com)
