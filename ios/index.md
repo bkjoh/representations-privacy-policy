@@ -2,7 +2,7 @@
 
 **Effective date:** 2026-05-08
 
-This Privacy Policy applies to **Representations: Binary & Hex** on iOS and iPadOS, published by **bjohns**.
+This Privacy Policy applies to **Representations: Binary & Hex** on iOS and iPadOS.
 
 ## Summary
 
