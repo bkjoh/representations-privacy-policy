@@ -2,11 +2,11 @@
 
 **Effective date:** 2026-05-16
 
-This Privacy Policy applies to **Representations** on Windows, package identity `BenjaminJohnson.Representations`, published by **Benjamin Johnson**.
+This Privacy Policy applies to **Representations: Binary & Hex** on Windows, package identity `BenjaminJohnson.Representations`, published by **Benjamin Johnson**.
 
 ## Summary
 
-Representations is an offline Windows reference application for browsing and searching number-base, Unicode scalar value, and Unicode Transformation Format-8 (UTF-8) representation data. The application is designed to work locally on your device and does not transmit user data off the device.
+Representations: Binary & Hex is an offline Windows reference application for browsing and searching number-base, Unicode scalar value, and Unicode Transformation Format-8 (UTF-8) representation data. The application is designed to work locally on your device and does not transmit user data off the device.
 
 ## Data collection
 
@@ -65,7 +65,7 @@ This Privacy Policy may be updated from time to time. If it is updated, the new 
 
 **Developer:** Benjamin Johnson
 
-**Application:** Representations
+**Application:** Representations: Binary & Hex
 
 **Email:** <representations@bjohns.com>
 
