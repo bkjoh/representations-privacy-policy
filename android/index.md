@@ -6,7 +6,7 @@ This Privacy Policy applies to **Representations: Binary & Hex** on Google Play,
 
 ## Summary
 
-Representations: Binary & Hex is an offline Android reference application for browsing and searching number-base values, Unicode Transformation Format-8 (UTF-8) bytes, and Unicode® Standard code points. The application is designed to work locally on your device and does not transmit user data off the device.
+Representations: Binary & Hex is an offline Android reference application for browsing and searching number-base values, Unicode® Transformation Format-8 (UTF-8) bytes, and Unicode Standard code points. The application is designed to work locally on your device and does not transmit user data off the device.
 
 ## Data collection
 
@@ -80,3 +80,7 @@ This Privacy Policy may be updated from time to time. If it is updated, the new 
 **Email:** <representations@bjohns.com>
 
 **Website:** [bjohns.com](https://bjohns.com)
+
+## Trademark Notice
+
+Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
