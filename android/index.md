@@ -6,7 +6,7 @@ This Privacy Policy applies to **Representations: Binary & Hex** on Google Play,
 
 ## Summary
 
-Representations: Binary & Hex is an offline Android reference application for browsing and searching number-base, Unicode® Standard code point, and UTF-8 representation data. The application is designed to work locally on your device and does not transmit user data off the device.
+Representations: Binary & Hex is an offline Android reference application for browsing and searching number-base, UTF-8 byte, and Unicode® Standard code point representation data. The application is designed to work locally on your device and does not transmit user data off the device.
 
 ## Data collection
 
