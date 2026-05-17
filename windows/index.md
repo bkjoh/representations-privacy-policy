@@ -6,7 +6,7 @@ This Privacy Policy applies to **Representations: Binary & Hex** on Windows, pac
 
 ## Summary
 
-Representations: Binary & Hex is an offline Windows reference application for browsing and searching number-base, Unicode scalar value, and Unicode Transformation Format-8 (UTF-8) representation data. The application is designed to work locally on your device and does not transmit user data off the device.
+Representations: Binary & Hex is an offline Windows reference application for browsing and searching number-base, Unicode® scalar value, and Unicode Transformation Format-8 (UTF-8) representation data. The application is designed to work locally on your device and does not transmit user data off the device.
 
 ## Data collection
 

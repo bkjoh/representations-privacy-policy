@@ -6,7 +6,7 @@ This Privacy Policy applies to **Representations: Binary & Hex** on iOS and iPad
 
 ## Summary
 
-Representations: Binary & Hex is an offline iOS and iPadOS reference application for browsing and searching number-base, Unicode scalar value, and UTF-8 representation data. The application is designed to work locally on your device and does not transmit user data off the device.
+Representations: Binary & Hex is an offline iOS and iPadOS reference application for browsing and searching number-base, Unicode® scalar value, and UTF-8 representation data. The application is designed to work locally on your device and does not transmit user data off the device.
 
 ## Data collection
 
