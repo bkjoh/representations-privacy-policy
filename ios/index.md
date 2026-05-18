@@ -2,11 +2,11 @@
 
 **Effective date:** 2026-05-17
 
-This Privacy Policy applies to **Representations: Binary & Hex** on iOS and iPadOS.
+This Privacy Policy applies to **Representations: Binary & Hex** on iOS, iPadOS, watchOS, and macOS.
 
 ## Summary
 
-Representations: Binary & Hex is an offline iOS and iPadOS reference application for browsing and searching number-base values, Unicode® Transformation Format-8 (UTF-8) bytes, and Unicode Standard code points. The application is designed to work locally on your device and does not transmit user data off the device.
+Representations: Binary & Hex is an offline Apple-platform reference application for browsing and searching number-base values, Unicode® Transformation Format-8 (UTF-8) bytes, and Unicode Standard code points. The application is designed to work locally on your device and does not transmit user data off the device.
 
 ## Data collection
 
@@ -37,7 +37,7 @@ The application does not sell, share, transfer, or disclose user data to third p
 
 The application includes a read-only database packaged with it. Browsing, filtering, searching, and copying values are performed locally on your device.
 
-Any ordinary on-device application files created by iOS, iPadOS, or the application remain on your device. The developer does not receive, access, or back up those files.
+Any ordinary on-device application files created by iOS, iPadOS, watchOS, macOS, or the application remain on your device. The developer does not receive, access, or back up those files.
 
 When you tap to copy a value, your device places that value on the system clipboard. The application does not transmit clipboard contents to the developer or to third parties. Clipboard contents may be visible to iOS, iPadOS, keyboards, and other applications according to your device and operating-system behavior.
 
@@ -51,13 +51,13 @@ If you open the privacy policy link, developer website, or an email address from
 
 If you voluntarily contact the developer by email or through the developer website, the information you provide is used only to read, manage, and respond to that communication. The application itself does not collect that information.
 
-Apple, iOS, iPadOS, device manufacturers, browsers, email applications, and other platform services may process store, install, update, security, crash, diagnostic, review, web, or email data under their own privacy practices. The developer does not add advertising, analytics, crash-reporting, or tracking SDKs to the application.
+Apple, iOS, iPadOS, watchOS, macOS, device manufacturers, browsers, email applications, and other platform services may process store, install, update, security, crash, diagnostic, review, web, or email data under their own privacy practices. The developer does not add advertising, analytics, crash-reporting, or tracking SDKs to the application.
 
 ## Data retention and deletion
 
 The application does not create an account and does not store user data in the cloud, so account deletion and cloud-data deletion are not applicable.
 
-You can delete local application data by uninstalling the application or deleting the application's data according to iOS or iPadOS settings and system behavior.
+You can delete local application data by uninstalling the application or deleting the application's data according to iOS, iPadOS, watchOS, or macOS settings and system behavior.
 
 ## Security
 
